@@ -7,6 +7,7 @@
 * MENTOR: NEELA SANTOSH
 * *YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 * OUTPUT:![Image](https://github.com/user-attachments/assets/20cf8b7f-aa32-4f10-862f-e0bc2d9bebd7)
+* ![Image](https://github.com/user-attachments/assets/0d1903ba-c33c-44b0-a810-5b22362caa6e)
 * **MACHINE LEARNING MODEL IMPLEMENTATION**
 *\~ Explained in about 500 words*
 
